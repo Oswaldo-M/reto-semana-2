@@ -38,16 +38,10 @@ def procesar_linea(linea):
     
     return(ciudad,celsius,clasificacion)
 
-lineas_prueba = [
-    "CDMX,22,C",
-    "Nueva York,50,F",
-    "ERROR,abc,C",
-    "Miami,95,X",
-    "Moscu,-10,C"
-]
 
 
-for linea in lineas_prueba:
+
+for linea in sys.stdin:
     resultado = procesar_linea(linea)
     if resultado:
         ciudad, celsius, clasificacion = resultado
