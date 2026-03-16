@@ -8,7 +8,6 @@ El programa:
 * Escribe resultados en **stdout**
 * Ignora automáticamente líneas inválidas
 
-Este ejercicio forma parte de la materia **Programación para Ciencia de Datos**.
 
 ---
 
@@ -127,7 +126,7 @@ git clone https://github.com/Oswaldo-M/reto-semana-2.git
 cd reto-semana-2
 ```
 
-2. Ejecuta el programa pasando el archivo de entrada y llevandolo a uno de salida
+2. Ejecuta el programa pasando el archivo de entrada y llevalo a uno de salida
 
 ### Linux / Mac
 
