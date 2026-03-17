@@ -1,7 +1,5 @@
 import sys
 
-print("ciudad,temperatura_celsius,clasificacion")
-
 def procesar_linea(linea):
     partes = linea.strip().split(',')
     
@@ -41,11 +39,18 @@ def procesar_linea(linea):
 
 
 
+primera_linea = True
+print("ciudad,temperatura_celsius,clasificacion")
+
 for linea in sys.stdin:
+    if primera_linea == False:
+        continue
+    if not linea:
+        continue
     resultado = procesar_linea(linea)
     if resultado:
         ciudad, celsius, clasificacion = resultado
         print(f'{ciudad},{celsius: .1f},{clasificacion}')
-   
+    
 
     
