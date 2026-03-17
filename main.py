@@ -45,8 +45,7 @@ for linea in sys.stdin:
     resultado = procesar_linea(linea)
     if resultado:
         ciudad, celsius, clasificacion = resultado
-        print(f'{ciudad}, {celsius: .1f},{clasificacion}')
-    else:
-        print(f'[IGNORADA]{linea}')    
+        print(f'{ciudad},{celsius: .1f},{clasificacion}')
+   
 
     
