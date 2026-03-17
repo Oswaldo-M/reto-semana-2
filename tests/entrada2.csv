@@ -1,0 +1,104 @@
+Madrid,28,C
+Paris,24,C
+Berlin,veinte,C
+Roma,30,C
+Lisboa,27,X
+Tokyo,82,F
+Seul,,C
+Beijing,31,C
+Shanghai,33,C
+Delhi,102,F
+Mumbai,88,F
+Sydney,22,C
+Melbourne,19,C
+Toronto,18,C
+Vancouver,dieciseis,C
+Montreal,17,C
+
+Buenos Aires,21,C
+
+Santiago,20,C
+Bogota,19,C
+
+Caracas,29,C
+Quito,18,C
+La Paz,12,C
+San Jose,26,C
+Panama,28,C
+Havana,30,C
+Kingston,31,C
+Nairobi,25,C
+Cairo,95,F
+Lagos,32,C
+Accra,30,C
+Casablanca,27,C
+Algiers,29,C
+Tunis,28,C
+Istanbul,26,C
+Athens,33,C
+Vienna,21,C
+Prague,20,C
+Warsaw,19,C
+Budapest,22,C
+Zurich,18,C
+Geneva,17,C
+Oslo,15,C
+Stockholm,16,C
+Helsinki,14,C
+Copenhagen,17,C
+Dublin,16,C
+Edinburgh,15,C
+Glasgow,14,C
+Reykjavik,10,C
+Tallinn,13,C
+Riga,14,C
+Vilnius,15,C
+Kiev,18,C
+Minsk,17,C
+Bucharest,23,C
+Sofia,24,C
+Belgrade,25,C
+Zagreb,23,C
+Ljubljana,22,C
+Sarajevo,21,C
+Skopje,26,C
+Tirana,27,C
+Podgorica,28,C
+Doha,104,F
+Dubai,108,F
+Abu Dhabi,106,F
+Riyadh,110,F
+Kuwait City,112,F
+Muscat,100,F
+Tehran,95,F
+Baghdad,107,F
+Jerusalem,29,C
+Tel Aviv,30,C
+Amman,28,C
+Kathmandu,20,C
+Dhaka,34,C
+Colombo,30,C
+Jakarta,32,C
+Manila,33,F
+Hanoi,31,C
+
+Ho Chi Minh,32,C
+Kuala Lumpur,31,C
+Singapore,30,C
+Brisbane,24,C
+Perth,25,C
+
+Adelaide,23,C
+Auckland,20,C
+Wellington,18,C
+Suva,29,C
+Honolulu,84,F
+Anchorage,55,F
+
+Denver,75,F
+Dallas,95,F
+Seattle,68,F
+San Francisco,66,F
+Los Angeles,77,F
+Las Vegas,105,F
+ErrorCiudad,xyz,F

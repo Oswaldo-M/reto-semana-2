@@ -1,0 +1,94 @@
+ciudad,temperatura_celsius,clasificacion
+Madrid, 28.0,Calido
+Paris, 24.0,Templado
+Roma, 30.0,Calido
+Tokyo, 27.8,Calido
+Beijing, 31.0,Calido
+Shanghai, 33.0,Calido
+Delhi, 38.9,Extremo
+Mumbai, 31.1,Calido
+Sydney, 22.0,Templado
+Melbourne, 19.0,Templado
+Toronto, 18.0,Templado
+Montreal, 17.0,Templado
+Buenos Aires, 21.0,Templado
+Santiago, 20.0,Templado
+Bogota, 19.0,Templado
+Caracas, 29.0,Calido
+Quito, 18.0,Templado
+La Paz, 12.0,Frio
+San Jose, 26.0,Calido
+Panama, 28.0,Calido
+Havana, 30.0,Calido
+Kingston, 31.0,Calido
+Nairobi, 25.0,Templado
+Cairo, 35.0,Calido
+Lagos, 32.0,Calido
+Accra, 30.0,Calido
+Casablanca, 27.0,Calido
+Algiers, 29.0,Calido
+Tunis, 28.0,Calido
+Istanbul, 26.0,Calido
+Athens, 33.0,Calido
+Vienna, 21.0,Templado
+Prague, 20.0,Templado
+Warsaw, 19.0,Templado
+Budapest, 22.0,Templado
+Zurich, 18.0,Templado
+Geneva, 17.0,Templado
+Oslo, 15.0,Frio
+Stockholm, 16.0,Templado
+Helsinki, 14.0,Frio
+Copenhagen, 17.0,Templado
+Dublin, 16.0,Templado
+Edinburgh, 15.0,Frio
+Glasgow, 14.0,Frio
+Reykjavik, 10.0,Frio
+Tallinn, 13.0,Frio
+Riga, 14.0,Frio
+Vilnius, 15.0,Frio
+Kiev, 18.0,Templado
+Minsk, 17.0,Templado
+Bucharest, 23.0,Templado
+Sofia, 24.0,Templado
+Belgrade, 25.0,Templado
+Zagreb, 23.0,Templado
+Ljubljana, 22.0,Templado
+Sarajevo, 21.0,Templado
+Skopje, 26.0,Calido
+Tirana, 27.0,Calido
+Podgorica, 28.0,Calido
+Doha, 40.0,Extremo
+Dubai, 42.2,Extremo
+Abu Dhabi, 41.1,Extremo
+Riyadh, 43.3,Extremo
+Kuwait City, 44.4,Extremo
+Muscat, 37.8,Extremo
+Tehran, 35.0,Calido
+Baghdad, 41.7,Extremo
+Jerusalem, 29.0,Calido
+Tel Aviv, 30.0,Calido
+Amman, 28.0,Calido
+Kathmandu, 20.0,Templado
+Dhaka, 34.0,Calido
+Colombo, 30.0,Calido
+Jakarta, 32.0,Calido
+Manila, 0.6,Frio
+Hanoi, 31.0,Calido
+Ho Chi Minh, 32.0,Calido
+Kuala Lumpur, 31.0,Calido
+Singapore, 30.0,Calido
+Brisbane, 24.0,Templado
+Perth, 25.0,Templado
+Adelaide, 23.0,Templado
+Auckland, 20.0,Templado
+Wellington, 18.0,Templado
+Suva, 29.0,Calido
+Honolulu, 28.9,Calido
+Anchorage, 12.8,Frio
+Denver, 23.9,Templado
+Dallas, 35.0,Calido
+Seattle, 20.0,Templado
+San Francisco, 18.9,Templado
+Los Angeles, 25.0,Templado
+Las Vegas, 40.6,Extremo
